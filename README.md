@@ -1,2 +1,2 @@
 # this-demo
-this is shiny - live demo
+Live demo of this, a basic overview of `shiny` apps using `bs4Dash`

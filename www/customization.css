@@ -1,0 +1,53 @@
+/* Specify Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+/* Specify Fonts for use with Shiny HTML tags */ 
+* {
+  font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  font-size: 120px;
+  color: #676b6e;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 64px;
+  font-weight: 400;
+  color: #676b6e;
+  display: inline;
+  margin-top: 0px;
+}
+
+h3 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 64px;
+  font-weight: 900;
+  font-style: italic;
+  color: #365180;
+  display: inline;
+  margin-top: 0px;
+}
+
+h4 {
+  font-family: 'Lato', sans-serif;
+}
+
+h5 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 22px;
+  font-weight: 900;
+  display: inline;
+}
+
+h6 {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  display: inline;
+}
